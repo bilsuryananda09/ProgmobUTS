@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
     private void initImageBitmaps(){
         Log.d(TAG, "initImageBitmaps: preparing bitmaps.");
 
-        mImageUrls.add("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_7SS-vdzJxpGGtZ5i2WPqq-DRT2o5H3TCGS3IIcsNOsx3jpiY");
+        mImageUrls.add("https://s1.bukalapak.com/img/1775836121/w-1000/Kucing_Russian_Blue.png");
         mNames.add("Kucing Russian Blue");
         mDetails.add("Asal Rusia");
         mDeskripsi.add("Kucing biru rusia (bahasa Inggris: Russian Blue cat) adalah salah satu ras kucing yang memiliki bulu berwarna perak biru. Kucing ini sangat cerdas dan lucu, tetapi cenderung pemalu di sekitar orang asing. Kucing biru rusia merupakan kucing yang memiliki ikatan yang erat dengan sahabatnya manusia. Kucing biru rusia sering dicari karena memiliki kepribadian dan warna bulu yang disukai orang-orang. Beberapa Kucing biru rusia memiliki kupalan kecil pada bulu di bagian atas kedua matanya yang miring sedikit ke bawah untuk memberikan perasaan bahwa Kucing biru rusia terlihat kesal.");
@@ -41,13 +41,13 @@ public class MainActivity extends AppCompatActivity {
         mDeskripsi.add("Kucing bengal atau Blacan adalah keturunan ketiga dari hasil persilangan antara kucing american shorthair dengan kucing asian leopard. Kucing ini berasal dari California, Amerika Serikat. Meskipun tergolong kucing hutan, namun ras bengal termasuk hewan yang banyak digemari dan dijadikan hewan peliharaan. Kucing ini memiliki ukuran badan yang panjang dengan otot-otot pada tubuhnya yang kuat. Ia memiliki tulang yang besar dan tebal, serta bulu yang tebal, rapat dan halus. Dalam proses pemeliharaannya, kucing ini memerlukan perawatan khusus pada bulunya, yaitu dengan digosok secara lembut menggunakan sikat yang halus. Populasi kucing bengal belum begitu banyak sehingga harganya tergolong tinggi, yaitu bisa mencapai 10-40 juta rupiah.");
 
 
-        mImageUrls.add("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnqLHFXdDjsiYOzfi3O_3vLQv75prr1wj2BCIbIiT7_u6rQUFU");
+        mImageUrls.add("http://hargakucing.com/wp-content/uploads/2017/03/harga-kucing-british-shorthair.png");
         mNames.add("Kucing Bulu Pendek Britania");
         mDetails.add("Asal Inggris");
         mDeskripsi.add("Kucing bulu pendek britania adalah salah satu ras kucing tertua yang nenek moyang dipercayai memiliki hubungan dengan bangsa Romawi yang pernah dahulu menguasai Inggris. Kucing ini adalah kucing berbadan sedang dengan bulu yang pendek. Selain itu, kucing ini juga banyak menjadi ikon.");
 
 
-        mImageUrls.add("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjBI79qooGnAxizieTwUhd1TwUaX17-w7h2ibasi52x1nA4fTZ");
+        mImageUrls.add("https://kucingpedia.com/wp-content/uploads/2018/09/Generasi-Kaki-Pendek-compressed.jpg");
         mNames.add("Kucing Munchkin");
         mDetails.add("Asal Amerika Serikat");
         mDeskripsi.add("Kucing munchkin adalah salah satu ras kucing berkaki pendek yang terbentuk karena mutasi genetik alami. Ras ini baru mulai dikembangbiakkan sekitar tahun 1980-an di Amerika Serikat, negara asalnya. Karena kakinya yang pendek, munchkin menjadi salah satu ras kucing terkecil di dunia.\n" +
@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
         mDetails.add("Asal Norwegia");
         mDeskripsi.add("Kucing hutan norwegia (bahasa Inggris: Norwegian Forest cat) adalah salah satu ras kucing alami yang berasal dari daerah yang bernama Norway. Nenek moyang dari ras kucing ini diduga berasal dari hutan-hutan di daerah Norwegia dan Skandinavia. Keunikan dari kucing hutan norwegia adalah pada bulunya. Bulunya akan menjadi panjang dan tebal ketika musim dingin tiba, dan akan rontok atau menipis ketika musim semi tiba. Kucing hutan norwegia dengan bulu warna yang gelap akan cenderung mempunyai bulu yang lebih pendek daripada bulu yang berwarna terang.");
 
-        mImageUrls.add("http://3.bp.blogspot.com/-VJxtDkupeU4/UwMM2WXvuQI/AAAAAAAAAfo/T8_akCNUDmQ/s1600/kucing+siam.jpg");
+        mImageUrls.add("https://i0.wp.com/www.infocatdog.com/wp-content/uploads/2018/08/CD-15_PROFIL-CAT_Kucing-Siam_FOTO-1.jpg?fit=2685%2C1790");
         mNames.add("Kucing Siam");
         mDetails.add("Asal Thailand");
         mDeskripsi.add("Kucing siam adalah salah satu ras kucing pertama yang diakui jelas sebagai kucing berjenis oriental. Sesuai dengan namanya, kucing siam berasal dari negara Siam (sekarang Thailand), sehingga ras kucing ini sangat mudah ditemukan di negara Thailand.");
